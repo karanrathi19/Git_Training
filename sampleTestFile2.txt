@@ -1,2 +1,3 @@
 This is Sample File 2
 This is Comparison in file 2
+This is STASH example in File 2
